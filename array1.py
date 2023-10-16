@@ -18,7 +18,7 @@ def solution(n,A,k):
 
 
 
-#사용자에게 입렵받기 
+#사용자에게 입력받기 
 n,k = map(int,input().split())
 A=list(map(int,input().split()))
 print(solution(n,A,k))
