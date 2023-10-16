@@ -1,10 +1,6 @@
 '''
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
+입력크기 n인 정수형 배열 A와 정수K가 주어진다. 배열 A의 원소는 a0 a1 a2  ... an-1이다. 
+배열 A의 원소 중에서 값이 k인 원소의 개수를 출력하자. 
 '''
 
 #n, A: 원소의 개수가 n인 정수형 배열 A
